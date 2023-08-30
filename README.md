@@ -1,2 +1,5 @@
-# my-first-repo
-Tutorial 0 PBP Ganjil 23/24
+Nama    : Muhammad Andhika Prasetya
+
+NPM     : 2206031302
+
+Kelas   : PBP C
